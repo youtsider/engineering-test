@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/youtsider/engineering-test/compare/v1.0.0...v1.1.0) (2022-11-17)
+
+
+### Features
+
+* 测试自动发布2 ([105c598](https://github.com/youtsider/engineering-test/commit/105c5988008b5f9dda9a5df580d0d261f92ec603))
+
 # 1.0.0 (2022-11-17)
 
 
